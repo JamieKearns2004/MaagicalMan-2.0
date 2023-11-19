@@ -5,7 +5,7 @@ const bot = new commando.Client({
 });
 
 // This is the token for MagicalMan dont forget to change it after you regenerate it!
-const TOKEN = 'NDk2NzkyMzQ3MDkxMTQwNjI4.DrIgQA.5BmKiiiTOC6GhSjNK4lFZotWoXM'
+const TOKEN = 'goodtry'
 
 // This is were I register were the commands are coming from. (Registering subfolders)
 bot.registry.registerGroup('simple', 'Simple');
